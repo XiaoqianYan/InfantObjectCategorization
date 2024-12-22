@@ -3,4 +3,6 @@ Yan, X., Tung, S., Fascendini, B., Chen, Y.D., Norcia, A., & Grill-Spector, K. (
 
 This repository contains code to analyze the data, compute statistics, and make the individual figure elements.
 
+Data includes the processed data used for figure generation and statistics.
+
 The code was developed and tested in MATLAB version 2021b and later versions.
